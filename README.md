@@ -1,7 +1,7 @@
 # Simulation demo
 The following repository only contain the original code and results produced for the demonstration of the algorithms and overall approach presented in the paper: <i>A parametric simulation framework for the generation of event log data (Riess, 2024)</i>.
 
-<b>PLEASE NOTE!<b> It is _not_ recommended to use the code provided in this repository, as an maintained version of the simulation framework (SynBPS) with various improvements can be found at <a href="https://github.com/mikeriess/SynBPS">, and installed using:
+<b>PLEASE NOTE!<b> It is _not_ recommended to use the code provided in this repository, as a maintained version of the simulation framework (SynBPS) with various improvements can be found at <a href="https://github.com/mikeriess/SynBPS">github.com/mikeriess/SynBPS</a>, and installed using:
 
 ```
 pip install SynBPS
